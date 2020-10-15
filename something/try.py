@@ -1,5 +1,7 @@
-f = open("word.txt", "r").read().split()
-for i in f:
-	print(i
-		)
-input("Enter")
+from random import randint
+
+varInt = 10
+varString = "lol"
+
+varString = varString.replace("o", "geg")
+print(varString)
